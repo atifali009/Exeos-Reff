@@ -1,0 +1,4 @@
+nano script.js
+paste all readme file  in this file , press CTRL+x+y then enter 
+After doing that run
+node script.js  to start script
